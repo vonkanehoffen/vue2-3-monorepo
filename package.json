@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "workspaces": [
+    "vue-3-project",
+    "vue-2-cli-5-project"
+  ]
 }
